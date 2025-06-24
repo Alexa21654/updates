@@ -1,0 +1,9 @@
+{
+    "Version": "1.1.0",
+    "BackendPackageUrl": "backend/1.1.0.zip",
+    "MigrationsPackageUrl": "migrations/1.1.0.zip",
+    "FrontendPackageUrl": "angular/1.1.0.zip",
+    "ReleaseNotes": "Correção de bugs e novas funcionalidades",
+    "RequiresManualIntervention": false,
+    "MinimumCompatibleVersion": "1.0.0"
+}
