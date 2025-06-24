@@ -1,8 +1,8 @@
 {
     "Version": "1.1.0",
-    "BackendPackageUrl": "backend/1.1.0.zip",
-    "MigrationsPackageUrl": "migrations/1.1.0.zip",
-    "FrontendPackageUrl": "angular/1.1.0.zip",
+    "BackendPackageUrl": "https://we.tl/t-TPj3SM0vQJ",
+    "MigrationsPackageUrl": "https://we.tl/t-TPj3SM0vQJ",
+    "FrontendPackageUrl": "https://we.tl/t-TPj3SM0vQJ",
     "ReleaseNotes": "Correção de bugs e novas funcionalidades",
     "RequiresManualIntervention": false,
     "MinimumCompatibleVersion": "1.0.0"
